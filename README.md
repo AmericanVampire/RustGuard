@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./rustplusplus.png" width="500">
+<img src="https://i.imgur.com/cEjX35J.png" width="500">
 </p>
 
 <h1 align="center"><em><b>RustGuard</b></em></h1>
