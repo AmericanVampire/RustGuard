@@ -2,7 +2,7 @@
 <img src="./rustplusplus.png" width="500">
 </p>
 
-<h1 align="center"><em><b>RustGuard</b> ~ Rust+ Automation Bot</em></h1>
+<h1 align="center"><em><b>RustGuard</b></em></h1>
 
 RustGuard is a self-hosted NodeJS Discord bot that integrates with the Rust+ Companion system to provide automation, monitoring, and team coordination tools for Rust servers.
 
